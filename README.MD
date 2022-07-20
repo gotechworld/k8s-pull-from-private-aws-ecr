@@ -1,5 +1,7 @@
 # Publish image to ECR
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=petrugiurca_k8s-pull-from-private-aws-ecr&metric=alert_status&token=15eaf0050c632f426797c73989d4aee155577e28)](https://sonarcloud.io/summary/new_code?id=petrugiurca_k8s-pull-from-private-aws-ecr)
+
 - Step 1. Build an image:
 
       docker build -t nodejs-hello-world-app .
