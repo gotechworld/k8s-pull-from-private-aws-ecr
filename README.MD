@@ -1,6 +1,6 @@
-# Publish image to ECR
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=petrugiurca_k8s-pull-from-private-aws-ecr)
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=petrugiurca_k8s-pull-from-private-aws-ecr&metric=alert_status&token=15eaf0050c632f426797c73989d4aee155577e28)](https://sonarcloud.io/summary/new_code?id=petrugiurca_k8s-pull-from-private-aws-ecr)
+# Publish image to ECR
 
 - Step 1. Build an image:
 
